@@ -35,8 +35,6 @@ The downloaded archive will contain a file similar to:
 GNS3 VM.ova
 ```
 
-Do not use the VirtualBox version when using VMware Workstation.
-
 ---
 
 # 3. Import `GNS3 VM.ova` into VMware Workstation
