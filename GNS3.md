@@ -161,8 +161,3 @@ OK
 
 The GNS3 VM should now be available to GNS3.
 
-The GNS3 documentation provides the GNS3 VM integration process for VMware.
-
----
-
-
