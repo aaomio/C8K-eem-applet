@@ -8,36 +8,36 @@ A collection of Cisco Catalyst 8000V (C8KV) **Embedded Event Manager (EEM)** app
 
 Automatically detects an interface going down and attempts to recover it.
 
-* [Configuration](./int_re_enable.cfg)
-* [Output](./int_re_enable.png)
+* [Configuration](./config/int_re_enable.cfg)
+* [Output](./Screengrabs/int_re_enable.png)
 
 ### Hourly Backup
 
 Periodically backs up the running configuration to flash.
 
-* [Configuration](./hourly_backup.cfg)
-* [Output](./hourly_backup.png)
+* [Configuration](./config/hourly_backup.cfg)
+* [Output](./Screengrabs/hourly_backup.png)
 
 ### Daily Backup
 
 Creates a scheduled backup of the running configuration.
 
-* [Configuration](./daily_backup.cfg)
-* [Output](./daily_backup.png)
+* [Configuration](./config/daily_backup.cfg)
+* [Output](./Screengrabs/daily_backup.png)
 
 ### Configuration Change by User
 
 Detects configuration changes and extracts the user associated with the change.
 
-* [Configuration](./by_user.cfg)
-* [Output](./by_user.png)
+* [Configuration](./config/by_user.cfg)
+* [Output](./Screengrabs/by_user.png)
 
 ### No Erase
 
 Demonstrates EEM automation associated with an erase operation.
 
-* [Configuration](./no_erase.cfg)
-* [Output](./no_erase.png)
+* [Configuration](./config/no_erase.cfg)
+* [Output](./Screengrabs/no_erase.png)
 
 ## Embedded Event Manager
 
