@@ -86,11 +86,7 @@ Displays the history of EEM events and can be useful when troubleshooting an app
 
 The EEM applets in this repository can be tested using a **Cisco Catalyst 8000V (C8KV)** virtual router in GNS3.
 
-The Cisco IOS XE image can  be obtained through Cisco's official software download channels. 
+- [GNS3 Setup](./GNS3.md)
 
-### GNS3
 
-[**GNS3 Documentation**](https://docs.gns3.com/)
-
-After obtaining a compatible Catalyst 8000V image, it can be added to GNS3 as a Cisco IOS XE appliance.
 
